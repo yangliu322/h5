@@ -1,0 +1,21 @@
+body {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+div.head{
+	flaot:left;
+	display:inline-block;
+	vertical-align: top;
+	width: 25%;
+	background-color: deepskyblue;
+	height: 825px;
+	text-align:center
+}
+div.body{
+	flaot:right;
+	display:inline-block;
+	width: 65%;
+	height: 810px;
+	padding: .5em;
+}

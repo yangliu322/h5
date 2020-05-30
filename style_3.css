@@ -1,0 +1,29 @@
+div.head{
+	background-color: dimgrey;
+	height: 100px;
+	padding:5px 5px 5px 20px;
+}
+h1{
+	color: #FFFFFF;
+}
+div.left{
+	float: left;
+	background-color: gainsboro;
+	border-bottom: 2px solid white;
+	width: 15%;
+	height: 80px;
+	display: inline-block;
+	text-align:center
+}
+div.right{
+	float: left;
+	display: inline-block;
+	width: 75%;
+	height: 70px;
+	border-bottom: 2px solid gainsboro;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+p.inline{
+	display: inline;
+}
